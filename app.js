@@ -1,5 +1,5 @@
 // Set your desired GitHub username here
-const username = "octocat";  // Change this for other profiles
+const username = "afnanahmadtariq";  // Change this for other profiles
 
 // Fetch and display GitHub profile data
 async function fetchProfileData() {
@@ -10,10 +10,7 @@ async function fetchProfileData() {
     const repos = document.getElementById('repos');
     const followers = document.getElementById('followers');
     const following = document.getElementById('following');
-    const location = document.getElementById('location');
-    const company = document.getElementById('company');
     const blog = document.getElementById('blog');
-    const twitter = document.getElementById('twitter');
     const reposList = document.getElementById('repos-list');
 
     profile.style.opacity = 0; // Hide profile temporarily
@@ -27,13 +24,9 @@ async function fetchProfileData() {
         avatar.src = data.avatar_url;
         name.textContent = data.name || "No Name";
         bio.textContent = data.bio || "No Bio Available";
-        location.textContent = data.location || "No Location";
-        company.textContent = data.company || "No Company";
         blog.textContent = data.blog || "#";
-        twitter.textContent = data.twitter_username || "No Twitter";
 
         blog.href = data.blog || "#";
-        twitter.href = data.twitter_username ? `https://twitter.com/${data.twitter_username}` : "#";
 
         // Stats
         repos.textContent = data.public_repos;

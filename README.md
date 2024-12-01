@@ -22,38 +22,36 @@ Welcome to my GitHub profile! I'm passionate about coding and software developme
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Python, JavaScript, Java, C++
-- **Frameworks**: React, Django, Flask
-- **Tools**: Git, Docker, VS Code, Postman
-- **Databases**: MySQL, MongoDB
+- **Languages**: Python, JavaScript, TypeScript, Java, C++, C#, C, Rust
+- **Frameworks/Library**: React, Nextjs, Tailwind, Bootstrap, JavaFX, NumPy, Pytorch, 
+- **Tools**: Git, VS Code, IntelliJ IDEA, Lucid Chart, Figma
+- **Databases**: PostgreSQL, MongoDB, Firbase, AzureDB
 
 ## 🚀 Featured Projects
 
-### [Project 1 Name](link-to-project)
-A brief description of your first project. Highlight key features and why it's interesting.
+### [Portfolio](https://github.com/afnanahmadtariq/portfolio.git)
+Want to know about me, check out my portfolio built in Nestjs and tailwind while also including ShadCN UI components.
 
-### [Project 2 Name](link-to-project)
-A brief description of your second project. Maybe explain what technology stack you used and any challenges faced.
+### [Agen](https://github.com/afnanahmadtariq/Agen.git)
+Agen is a web application designed to help students generate assignments quickly and efficiently. This repository contains the frontend code built with Flutter, while the backend functionalities are implemented using Azure Functions in Python.
 
-### [Project 3 Name](link-to-project)
-A brief description of your third project. Include any interesting features or why you created it.
+### [Weather-Forcast](https://github.com/afnanahmadtariq/Weather-Forecast.git)
+A simple Weather Forecast website to how can weather forcasting be represented using React Framework and JSON parsing.
+
+### [Dynamin Gitbhub Profile stats](https://github.com/afnanahmadtariq/afnanahmadtariq.git)
+Simply getting all github data through Github API and displaying in a different format. Want to try just name username in the top of js ;)
+
 
 ## 🌱 I'm currently learning
 
-- **Machine Learning** with Python
-- **Web Development** using React and Node.js
-- **Cloud computing** (AWS)
+- **Machine Learning** with Pytorch and Open CV
+- **Web Development** using Nextjs, Tailwind, ShadCN UI and Express JS
+- **Cloud computing** Currently adept with MS Azure Services
 
 ## 📫 How to reach me
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn**: [Your LinkedIn](link-to-linkedin)
-- **Personal Website**: [Your Website](link-to-website)
-
-## 🔗 Connect with me
-
-- [GitHub](https://github.com/[YourUsername])
-- [Twitter](https://twitter.com/[YourUsername])
-- [LinkedIn](https://linkedin.com/in/[YourLinkedIn])
+- **Email**: [afnanahmadtariq@hotmail.com](afnanahmadtariq@hotmail.com)
+- **LinkedIn**: [afnanahmadtariq](https://linkedin.com/in/afnanahmadtariq)
+- **My Website**: [afnanahmadtariq.vercel.app](https://afnanahmadtariq.vercel.app/)
 
 Thanks for visiting my GitHub! Feel free to explore my repositories and reach out to me if you'd like to collaborate or chat!
