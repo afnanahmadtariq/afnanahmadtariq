@@ -38,7 +38,7 @@ Agen is a web application designed to help students generate assignments quickly
 ### [Weather-Forcast](https://github.com/afnanahmadtariq/Weather-Forecast.git)
 A simple Weather Forecast website to how can weather forcasting be represented using React Framework and JSON parsing.
 
-### [Dynamin Gitbhub Profile stats](https://github.com/afnanahmadtariq/afnanahmadtariq.git)
+### [Dynamic Gitbhub Profile stats](https://github.com/afnanahmadtariq/afnanahmadtariq.git)
 Simply getting all github data through Github API and displaying in a different format. Want to try just name username in the top of js ;)
 
 
