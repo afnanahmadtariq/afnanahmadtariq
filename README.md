@@ -23,7 +23,7 @@ Welcome to my GitHub profile! I'm passionate about coding and software developme
 - **Languages**: Python, JavaScript, TypeScript, Java, C++, C#, C, Rust
 - **Frameworks/Library**: React, Nextjs, Tailwind, Bootstrap, JavaFX, NumPy, Pytorch, 
 - **Tools**: Git, VS Code, IntelliJ IDEA, Lucid Chart, Figma
-- **Databases**: PostgreSQL, MongoDB, Firbase, AzureDB
+- **Databases**: PostgreSQL, MongoDB, Firebase, MySQL
 
 ## 🚀 Featured Projects
 
