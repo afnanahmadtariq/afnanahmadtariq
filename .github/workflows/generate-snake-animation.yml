@@ -18,23 +18,18 @@ jobs:
 
       - name: Generate Snake SVG
         uses: Platane/snk@v3
-        id: snake-gif
         with:
           github_user_name: afnanahmadtariq
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          outputs: dist/github-contribution-grid-snake.svg
+          # You can customize colors here if desired, for example:
+          # outputs: |
+          #   dist/github-contribution-grid-snake.svg?color_snake=green&color_dots=#d6e685,#8cc665,#44a340,#1e6823
 
-      - name: Show directory content
-        run: ls dist
-
-      - name: Deploy to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4
+      - name: Deploy to output branch
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          folder: dist
-          token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          commit-message: "Generate snake animation"
-          force: true
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist # The directory containing the generated snake SVG
+          force_orphan: true # Creates a new history for the output branch (suitable if it only contains the snake)
+          commit_message: 'feat: generate and commit snake animation'
