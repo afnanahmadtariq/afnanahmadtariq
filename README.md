@@ -15,7 +15,11 @@ Welcome to my GitHub profile! I'm passionate about coding and software developme
 </p>
 
 <p align="center">
-  <img src="https://github.com/afnanahmadtariq/afnanahmadtariq/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnanahmadtariq/afnanahmadtariq/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnanahmadtariq/afnanahmadtariq/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/afnanahmadtariq/afnanahmadtariq/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
@@ -77,15 +81,6 @@ Welcome to my GitHub profile! I'm passionate about coding and software developme
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnanahmadtariq&repo=afnanahmadtariq&theme=radical" alt="Pinned Repo: Dynamic Github Profile stats" />
   </a>
 </p>
-<!-- 
-You can also use a more general approach to show all pinned repositories automatically, 
-but it might not be supported directly by github-readme-stats in a single card for *all* pins.
-The above method features specific repositories dynamically.
-If you pin these repositories on your GitHub profile, their stats will be dynamically updated.
-
-Alternatively, for a more automated "show my top/pinned repos" card, you might explore other tools or stick to featuring a few key ones as above.
-The most common way to use `github-readme-stats` for "featured" projects is to use the `pin` query for specific repositories as shown.
--->
 
 ---
 
