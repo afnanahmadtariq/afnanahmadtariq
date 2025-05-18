@@ -15,14 +15,12 @@ Welcome to my GitHub profile! I'm passionate about coding and software developme
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnanahmadtariq/afnanahmadtariq/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnanahmadtariq/afnanahmadtariq/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </p>
-
-<!-- When your GitHub Action workflow runs successfully, you can switch back to:
-<p align="center">
-  <img src="https://github.com/afnanahmadtariq/afnanahmadtariq/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
--->
 
 ---
 
