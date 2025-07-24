@@ -1,4 +1,9 @@
-# Hi there, I'm Afnan Ahmad Tariq! 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Afnan+Ahmad+Tariq+%F0%9F%91%8B;A+Full+Stack+Developer+and+DevOps+Engineer;A+Cyber+Enthusiast;but+in+the+core+I+am;A+Software+Engineer;Building+impactful+solutions;with+code+%F0%9F%92%BB+creativity+%F0%9F%8E%A8+and+curiosity+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  </p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=afnanahmadtariq&label=Profile%20Views&color=blueviolet&style=flat-square" alt="afnanahmadtariq profile views" />
 </p>
