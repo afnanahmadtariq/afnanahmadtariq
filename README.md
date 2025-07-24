@@ -102,8 +102,7 @@ Welcome to my GitHub profile! I'm passionate about coding and software developme
 ## 🌱 I'm Currently Learning
 
 - **Machine Learning** with Pytorch and Open CV
-- **Web Development** using Nextjs, Tailwind, ShadCN UI and Express JS
-- **Cloud computing** Currently adept with MS Azure Services
+- **Backend Technologies**  Rocket, actix, axum, and warp
 
 ---
 
