@@ -12,10 +12,10 @@ Welcome to my GitHub profile! I'm passionate about coding and software developme
 
 <p align="center">
   <a href="https://github.com/afnanahmadtariq">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=afnanahmadtariq&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Afnan's GitHub stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=afnanahmadtariq&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="Afnan's GitHub stats" />
   </a>
   <a href="https://github.com/afnanahmadtariq">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnanahmadtariq&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnanahmadtariq&layout=compact&theme=default&hide_border=true" alt="Top Langs" />
   </a>
 </p>
 
@@ -82,18 +82,18 @@ Welcome to my GitHub profile! I'm passionate about coding and software developme
 <p align="center">
   <a href="https://github.com/afnanahmadtariq">
     <!-- Replace with your username and desired layout options -->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnanahmadtariq&repo=Business-Website&theme=radical" alt="Pinned Repo: Business-Website" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnanahmadtariq&repo=Business-Website&theme=default" alt="Pinned Repo: Business-Website" />
   </a>
   <a href="https://github.com/afnanahmadtariq">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnanahmadtariq&repo=LeetCode&theme=radical" alt="Pinned Repo: LeetCode" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnanahmadtariq&repo=LeetCode&theme=default" alt="Pinned Repo: LeetCode" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/afnanahmadtariq">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnanahmadtariq&repo=TrackPro&theme=radical" alt="Pinned Repo: TrackPro" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnanahmadtariq&repo=TrackPro&theme=default" alt="Pinned Repo: TrackPro" />
   </a>
   <a href="https://github.com/afnanahmadtariq">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnanahmadtariq&repo=last_seen&theme=radical" alt="Pinned Repo: last_seen" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnanahmadtariq&repo=last_seen&theme=default" alt="Pinned Repo: last_seen" />
   </a>
 </p>
 
