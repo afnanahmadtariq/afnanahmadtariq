@@ -1,117 +1,120 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Afnan+Ahmad+Tariq+%F0%9F%91%8B;A+Full+Stack+Developer+and+DevOps+Engineer;A+Cyber+Security+and+AI+Enthusiast;but+in+the+core+I+am;A+Software+Engineer;Building+impactful+solutions;with+code+%F0%9F%92%BB+creativity+%F0%9F%8E%A8+and+curiosity+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-  </p>
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=200&section=header&text=Afnan%20Ahmad%20Tariq&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20DevOps%20Engineer&descSize=18&descAlignY=55&descColor=8b949e&animation=fadeIn)
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white)](https://afnanahmadtariq.is-a.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/afnanahmadtariq)
+[![Email](https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:afnanahmadtariq@hotmail.com)
 
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" /> &nbsp;Projects
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Eco Lens</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afnanahmadtariq&label=Profile%20Views&color=blueviolet&style=flat-square" alt="afnanahmadtariq profile views" />
+  <a href="https://ecolenz.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
-
-Welcome to my GitHub profile! I'm passionate about coding and software development, and here you'll find some of my projects, contributions, and experiments.
-
+<p align="center"><strong>Next.js · Mapbox GL · Redis · Gemini</strong></p>
+<p align="center">Real-time AQI monitoring with AI-powered health insights & 3D map visualizations</p>
+</td>
+<td width="50%">
+<h3 align="center">Solo Suite</h3>
 <p align="center">
-  <a href="https://github.com/afnanahmadtariq">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=afnanahmadtariq&show_icons=true&theme=default&hide_border=true&rank_icon=github" alt="Afnan's GitHub stats" />
-  </a>
-  <a href="https://github.com/afnanahmadtariq">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnanahmadtariq&layout=compact&theme=default&hide_border=true" alt="Top Langs" />
-  </a>
+  <a href="https://solo-suite-crm.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
+<p align="center"><strong>Angular · Prisma · PostgreSQL</strong></p>
+<p align="center">Freelancer CRM for managing clients, invoices & projects</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Devstract</h3>
+<p align="center">
+  <a href="https://devstract.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+<p align="center"><strong>Next.js · Framer Motion · PostgreSQL</strong></p>
+<p align="center">Animated UI components with subscription & email APIs</p>
+</td>
+<td width="50%">
+<h3 align="center">RadioLIV</h3>
+<p align="center">
+  <a href="https://radio-liv.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+<p align="center"><strong>Next.js · TypeScript · PWA</strong></p>
+<p align="center">Stream 30,000+ global radio stations</p>
+</td>
+</tr>
+<tr>
+<td width="50%" colspan="2">
+<h3 align="center">Last Seen</h3>
+<p align="center">
+  <a href="https://last-seen-ping.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
+<p align="center"><strong>Next.js · MongoDB · Docker · Kubernetes</strong></p>
+<p align="center">Website uptime monitoring & real-time analytics dashboard</p>
+</td>
+</tr>
+</table>
 
-<!-- <p align="center">
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" /> &nbsp;Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ed8b00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=cplusplus&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61dafb?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-dd0031?style=flat-square&logo=angular&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06b6d4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=flat-square&logo=kubernetes&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS-232f3e?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078d4?style=flat-square&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285f4?style=flat-square&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+</div>
+
+<br/>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> &nbsp;Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=afnanahmadtariq&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afnanahmadtariq&layout=compact&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&hide_border=true" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=afnanahmadtariq&background=0d1117&stroke=21262d&ring=58a6ff&fire=58a6ff&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681&hide_border=true" />
+</div>
+
+<br/>
+
+<div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/afnanahmadtariq/afnanahmadtariq/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/afnanahmadtariq/afnanahmadtariq/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-</p> -->
+</div>
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<!-- When your GitHub Action workflow runs successfully, you can switch back to:
-<p align="center">
-  <img src="https://github.com/afnanahmadtariq/afnanahmadtariq/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
--->
----
-
-## 🛠️ Technologies & Tools
-
-<p align="left">
-  <strong>Languages:</strong><br/>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"></a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"></a>
-  <a href="https://www.iso.org/standard/74528.html" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/c-%23A8B9CC.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></a>
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"></a>
-  <br/><br/>
-  <strong>Frameworks/Libraries:</strong><br/>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/react-%2320232A.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS"></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"></a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"></a>
-  <a href="https://openjfx.io/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/javafx-%23FFA500.svg?style=for-the-badge&logo=java&logoColor=white" alt="JavaFX"></a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"></a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"></a>
-  <br/><br/>
-  <strong>Tools:</strong><br/>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"></a>
-  <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"></a>
-  <a href="https://www.lucidchart.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Lucidchart-FF6600?style=for-the-badge&logo=lucidchart&logoColor=white" alt="Lucidchart"></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"></a>
-  <br/><br/>
-  <strong>Databases:</strong><br/>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase"></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></a>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/afnanahmadtariq">
-    <!-- Replace with your username and desired layout options -->
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnanahmadtariq&repo=Business-Website&theme=default" alt="Pinned Repo: Business-Website" />
-  </a>
-  <a href="https://github.com/afnanahmadtariq">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnanahmadtariq&repo=LeetCode&theme=default" alt="Pinned Repo: LeetCode" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/afnanahmadtariq">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnanahmadtariq&repo=TrackPro&theme=default" alt="Pinned Repo: TrackPro" />
-  </a>
-  <a href="https://github.com/afnanahmadtariq">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=afnanahmadtariq&repo=last_seen&theme=default" alt="Pinned Repo: last_seen" />
-  </a>
-</p>
-
----
-
-## 🌱 I'm Currently Learning
-
-- **Machine Learning** with Pytorch and Open CV
-- **Backend Technologies**  Rocket, actix, axum, and warp
-
----
-
-## 📫 Connect with Me
-
-<p align="left">
-  <a href="mailto:afnanahmadtariq@hotmail.com" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/afnanahmadtariq" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://afnanahmadtariq.vercel.app/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/My%20Website-%234A90E2.svg?style=for-the-badge&logo=Cloudflare&logoColor=white" alt="My Website"></a>
-</p>
-
-Thanks for visiting my GitHub! Feel free to explore my repositories and reach out to me if you'd like to collaborate or chat!
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=100&section=footer)
