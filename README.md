@@ -8,14 +8,23 @@
 
 </div>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Afnan+Ahmad+Tariq+%F0%9F%91%8B;A+Full+Stack+Developer+and+DevOps+Engineer;A+Cyber+Security+and+AI+Enthusiast;but+in+the+core+I+am;A+Software+Engineer;Building+impactful+solutions;with+code+%F0%9F%92%BB+creativity+%F0%9F%8E%A8+and+curiosity+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+</p>
+
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="25" /> &nbsp;Projects
+## 🚀 Projects
 
 <table>
 <tr>
 <td width="50%">
 <h3 align="center">Eco Lens</h3>
+<p align="center">
+  <a href="https://ecolenz.vercel.app" target="_blank">
+    <img src="https://github.com/afnanahmadtariq/afnanahmadtariq/blob/main/assets/ecolens.png?raw=true" width="100%" alt="Eco Lens"/>
+  </a>
+</p>
 <p align="center">
   <a href="https://ecolenz.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
@@ -24,6 +33,11 @@
 </td>
 <td width="50%">
 <h3 align="center">Solo Suite</h3>
+<p align="center">
+  <a href="https://solo-suite-crm.vercel.app" target="_blank">
+    <img src="https://github.com/afnanahmadtariq/afnanahmadtariq/blob/main/assets/solosuite.png?raw=true" width="100%" alt="Solo Suite"/>
+  </a>
+</p>
 <p align="center">
   <a href="https://solo-suite-crm.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
@@ -35,6 +49,11 @@
 <td width="50%">
 <h3 align="center">Devstract</h3>
 <p align="center">
+  <a href="https://devstract.vercel.app" target="_blank">
+    <img src="https://github.com/afnanahmadtariq/afnanahmadtariq/blob/main/assets/devstract.png?raw=true" width="100%" alt="Devstract"/>
+  </a>
+</p>
+<p align="center">
   <a href="https://devstract.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 <p align="center"><strong>Next.js · Framer Motion · PostgreSQL</strong></p>
@@ -43,27 +62,22 @@
 <td width="50%">
 <h3 align="center">RadioLIV</h3>
 <p align="center">
+  <a href="https://radio-liv.vercel.app" target="_blank">
+    <img src="https://github.com/afnanahmadtariq/afnanahmadtariq/blob/main/assets/radioliv.png?raw=true" width="100%" alt="RadioLIV"/>
+  </a>
+</p>
+<p align="center">
   <a href="https://radio-liv.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 <p align="center"><strong>Next.js · TypeScript · PWA</strong></p>
 <p align="center">Stream 30,000+ global radio stations</p>
 </td>
 </tr>
-<tr>
-<td width="50%" colspan="2">
-<h3 align="center">Last Seen</h3>
-<p align="center">
-  <a href="https://last-seen-ping.vercel.app" target="_blank"><img src="https://img.shields.io/badge/LIVE-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-</p>
-<p align="center"><strong>Next.js · MongoDB · Docker · Kubernetes</strong></p>
-<p align="center">Website uptime monitoring & real-time analytics dashboard</p>
-</td>
-</tr>
 </table>
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="25" /> &nbsp;Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
@@ -94,7 +108,7 @@
 
 <br/>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="25" /> &nbsp;Stats
+## 📊 Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=afnanahmadtariq&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff&hide_border=true&count_private=true" height="165" />
