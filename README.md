@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F7971E&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Afnan+Ahmad+Tariq+%F0%9F%91%8B;A+Full+Stack+Developer+and+DevOps+Engineer;A+Cyber+Security+and+AI+Enthusiast;but+in+the+core+I+am;A+Software+Engineer;Building+impactful+solutions;with+code+%F0%9F%92%BB+creativity+%F0%9F%8E%A8+and+curiosity+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Building+scalable+web+apps;Crafting+intuitive+experiences;Deploying+with+CI%2FCD+%26+Cloud" alt="Typing SVG" />
 </p>
 
 <br/>
